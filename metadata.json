@@ -1,0 +1,6 @@
+{
+  "name": "LumenX Agency Website",
+  "description": "A professional, premium single-page website for LumenX web agency, following Apple's minimalist design language with elegant animations, clean typography, and precise layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
